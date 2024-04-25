@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RegxxGha+TePhMTEgdcu6+RHEJHB4JwcTUsMFtEqMKvrVwMvX+VxFTf7IcY08aELOdpj7XV9mqRUUSRFxEK6uQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Cristiano\\source\\repos\\cclautert\\Three_Layers\\src\\DevIO.Business\\DevIO.Business.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Cristiano\\.nuget\\packages\\fluentvalidation\\11.7.1\\fluentvalidation.11.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
